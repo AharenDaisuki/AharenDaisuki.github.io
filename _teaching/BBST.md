@@ -1,8 +1,8 @@
 ---
 title: "Balanced binary search tree"
-collection: projects
+collection: teaching
 type: "CS3334 Data structure"
-permalink: /projects/BBST
+permalink: /teaching/BBST
 venue: "City University of Hong Kong, Department of Computer Science"
 date: 2021-12-01
 location: "Hong Kong, China"

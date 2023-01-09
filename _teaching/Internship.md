@@ -1,8 +1,8 @@
 ---
 title: "Placement report"
-collection: projects
+collection: teaching
 type: "CS3504 IT Professional placement"
-permalink: /projects/Internship
+permalink: /teaching/Internship
 venue: "City University of Hong Kong, Department of Computer Science"
 date: 2022-12-19
 location: "Hong Kong, China"

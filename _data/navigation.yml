@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Projects" #TEACHING section is replaced by PROJECTS
-    url: /projects/
+  - title: "teaching" #TEACHING section is replaced by PROJECTS
+    url: /teaching/
     
   - title: "Portfolio"
     url: /portfolio/
