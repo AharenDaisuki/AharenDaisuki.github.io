@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
 [download copy](http://AharenDaisuki.github.io/files/CV_homepage.pdf)
 
 Education
