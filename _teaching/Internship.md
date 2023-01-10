@@ -23,4 +23,4 @@ large towards better growth and development.
 
 Pdf files
 ======
-[Placement_Report_I]()
+[Placement_Report_I](http://AharenDaisuki.github.io/files/PlacementReport_I.pdf)

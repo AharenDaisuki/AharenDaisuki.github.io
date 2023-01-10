@@ -25,9 +25,9 @@ Awards
 ======
 **2021**
 
--Bronze metal in the 46th ICPC Asia Regional Contest, Jinan site 2021
+-[Bronze metal in the 46th ICPC Asia Regional Contest, Jinan site 2021](http://AharenDaisuki.github.io/files/mmw.pdf)
 
--Dean's List in 2021/2022 academic year
+-[Dean's List in 2021/2022 academic year](http://AharenDaisuki.github.io/files/deansList_2021.pdf)
 
 Contact
 ======

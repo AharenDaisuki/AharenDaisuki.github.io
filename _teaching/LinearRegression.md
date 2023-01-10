@@ -22,7 +22,7 @@ varies with or without smoking.
 
 Pdf file
 ======
-[Insurance_charge_estimation_based_on_regression_analysis.pdf]()
+[Insurance_charge_estimation_based_on_regression_analysis.pdf](http://AharenDaisuki.github.io/files/linearRegression.pdf)
 
 Assets
 ======

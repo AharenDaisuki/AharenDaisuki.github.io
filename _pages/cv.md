@@ -9,33 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+[download copy](http://AharenDaisuki.github.io/files/CV_homepage.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, City University of Hong Kong, 2024 (expected)
+
+<!--* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Student Helper for CS2315
+  * City University of Hong Kong
+  * Duty: programming instruction during lecture sessions
+  * Supervisor: Kenneth Lee
+
+* Spring 2022: Programming Clinic
+  * City University of Hong Kong
+  * Duty: answering walk-in questions related to programming assignments
+  * Supervisor: Kenneth Lee
+
+* Summer 2022: Research Intern
+  * Theory lab of Huawei, Hong Kong Research Center
+  * Duty: development of linear programming solver, testing and maintenance
+  * Supervisor: Michael, ZHANG Fan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Git
+* C++
+* Java
+* Python
+* Optimization tools
+  * coin-or suite
+  * SCIP
+* Latex / Markdown
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams--->

@@ -24,7 +24,7 @@ will be presented based on data analysis.
 
 Pdf files
 ======
-[Transfer_strategy_optimization_for_Premier_League_Clubs.pdf]()
+[Transfer_strategy_optimization_for_Premier_League_Clubs.pdf](http://AharenDaisuki.github.io/files/dataVisualization.pdf)
 
 Assets
 ======
