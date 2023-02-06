@@ -1,7 +1,7 @@
 ---
 title: 'Minimax Algorithm: variations & implementations'
 date: 2023-02-06
-permalink: /posts/2023/02/Minimax/
+permalink: /posts/2023/02/minimaxAlgo/
 tags:
 - Artificial Intelligence
 - Game Theory
