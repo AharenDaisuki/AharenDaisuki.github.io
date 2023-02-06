@@ -14,7 +14,8 @@ On behalf of ACM team of City University of Hong Kong, his team won bronze metal
 Jinan site 2021. It is certified that he achieved a place on the Dean's List in 2021/2022 academic year for his outstanding academic performance. 
 He worked for Programming Clinic at Department of Computer Science, City University of Hong Kong in 2022, supervised by professor Kenneth Lee.
 
-He then worked in Theory Lab of Huawei, Hong Kong Research Center as research intern in control theory and optimization group from June 2022 to March 2023,
+He then worked in [Theory Lab of Huawei, Hong Kong Research Center](https://www.hkstp.org/our-community/innovator-directory/company-details?company=huawei-tech-investment-co-limited) 
+as research intern in control theory and optimization group from June 2022 to March 2023,
 supervised by Michael, ZHANG fan, senior researcher at Huawei technologies. His contribution mainly lies in the development of IO module, model presolve module 
 and design of data structure for linear programming solver.
 

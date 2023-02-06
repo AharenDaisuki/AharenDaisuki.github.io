@@ -43,8 +43,8 @@ Skills
 * Java
 * Python
 * Optimization tools
-  * coin-or suite
-  * SCIP
+  * [coin-or](https://github.com/coin-or) suite
+  * [SCIP](https://github.com/scipopt/scip)
 * Latex / Markdown
 
 <!---
