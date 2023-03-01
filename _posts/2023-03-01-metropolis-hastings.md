@@ -57,8 +57,8 @@ Pseudo-code
 
 Given current state $X_{n} = i$
   * 1 rollout state j from the proposal distribution with probability $p_{ij}$
-  * 2 accept $X_{n+1} = j$ with probability $ \alpha(i | j) = 1 ^ \frac{\pi_{j}p_{ji}}{\pi_{i} p_{ij}} $
-  * 3 otherwise, X_{n+1} = i
+  * 2 accept $X_{n+1} = j$ with probability $ \alpha(i, j) = 1 ^ \frac{\pi_{j}p_{ji}}{\pi_{i} p_{ij}} $
+  * 3 otherwise, $X_{n+1} = i$
 
 
 
