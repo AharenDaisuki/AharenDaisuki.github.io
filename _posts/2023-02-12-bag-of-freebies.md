@@ -6,8 +6,8 @@ tags:
 - Computer Vision
 ---
 
-Normally referred to as data augmentation, Bag-of-freebies means a collection of tricks used in YOLO that enhance detection precision 
-with higher training cost but without increasing induction cost. Part of Bag-of-freebies will be covered in the following discussions.
+You can think of 'Bag of freebies' as a collection of strategies for improving the overall precision without increasing the inference cost.
+What is often adopted and meets the definition of BoF is data augmentation. Part of Bag-of-freebies will be covered in the following discussions.
 
 Roadmap
 ======
