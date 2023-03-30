@@ -19,8 +19,12 @@ as research intern in control theory and optimization group from June 2022 to Ma
 supervised by Michael, ZHANG fan, senior researcher at Huawei technologies. His contribution mainly lies in the development of IO module, model presolve module 
 and design of data structure for linear programming solver.
 
-His research interest mainly lies in algorithm design and analysis, game theory and 
-optimization theory.
+His research interest mainly lies in computer vision, natural language process, algorithm design and analysis and game theory.
+
+Inspirations:
+* [camouflaged object detection](https://github.com/visionxiang/awesome-camouflaged-object-detection)
+* [computer audition](https://arxiv.org/abs/2203.06064#)
+
 
 Awards
 ======
