@@ -29,4 +29,4 @@ Disparity map
 
 Code
 ======
-[SIFT](https://github.com/AharenDaisuki/InstanceSearch)
+[Disparity Map](https://github.com/AharenDaisuki/InstanceSearch)
