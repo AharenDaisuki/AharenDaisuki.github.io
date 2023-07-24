@@ -23,9 +23,9 @@ Pdf files
 
 Disparity map
 ======
-![Art](/Users/lixiaoyang/CLionProjects/AharenDaisuki.github.io/images/Art.png)
-![Dolls](/Users/lixiaoyang/CLionProjects/AharenDaisuki.github.io/images/Dolls.png)
-![Reindeer](/Users/lixiaoyang/CLionProjects/AharenDaisuki.github.io/images/Reindeer.png)
+![Art](http://AharenDaisuki.github.io/images/Art.png)
+![Dolls](http://AharenDaisuki.github.io/images/Dolls.png)
+![Reindeer](http://AharenDaisuki.github.io/images/Reindeer.png)
 
 Code
 ======
