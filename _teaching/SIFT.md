@@ -10,8 +10,10 @@ location: "Hong Kong, China"
 
 Abstract
 ======
-In this project, scale invariant feature transform (SIFT), local binary pattern (LBP) and color histogram is implemented to facilitate the instance search task and the experiment is mainly based on SIFT implementation. 
-Due to the lack of training data with annotations and the device limit, it is rather challenging and time-consuming to prepare the training data set and to train a model from scratch. Therefore, CNN-based methods are not considered in this assignment.
+In this project,  scale invariant feature transform (SIFT), local binary pattern (LBP) and color histogram 
+is implemented to facilitate the instance search task and the experiment is mainly based on SIFT implementation. 
+Due to the lack of training data with annotations and the device limit, it is rather challenging and time-consuming 
+to prepare the training data set and to train a model from scratch. Therefore, CNN-based methods are not considered in this assignment.
 
 Pdf files
 ======
@@ -20,3 +22,7 @@ Pdf files
 Assets
 ======
 [project_assets]()
+
+Code
+======
+[SIFT](https://github.com/AharenDaisuki/InstanceSearch)
