@@ -16,7 +16,7 @@ He worked for Programming Clinic at Department of Computer Science, City Univers
 
 He then worked in [Theory Lab of Huawei, Hong Kong Research Center](https://www.hkstp.org/our-community/innovator-directory/company-details?company=huawei-tech-investment-co-limited) 
 as research intern in control theory and optimization group from June 2022 to March 2023,
-supervised by Michael, ZHANG fan, senior researcher at Huawei technologies. His contribution mainly lies in the development of IO module, model presolve module 
+supervised by [Michael, ZHANG fan](https://scholar.google.com/citations?user=XXfO9BYAAAAJ&hl=zh-CN), senior researcher at Huawei technologies. His contribution mainly lies in the development of IO module, model presolve module 
 and design of data structure for linear programming solver.
 
 In 2023 summer, he interned in [RECSEM 2023](https://www.jics.utk.edu/recsem-reu/recsem23/projects#field1), working on the efficient implementation of 
