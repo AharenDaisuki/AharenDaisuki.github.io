@@ -1,5 +1,5 @@
 ---
-title: "IT Professional Placement"
+title: "Professional placement"
 collection: teaching
 type: "CS3504 IT Professional placement"
 permalink: /teaching/Internship
