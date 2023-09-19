@@ -35,6 +35,11 @@ Work experience
   * Theory lab of Huawei, Hong Kong Research Center
   * Duty: development of linear programming solver, testing and maintenance
   * Supervisor: Michael, ZHANG Fan
+
+* Summer 2023: Summer Research Internship
+  * University of Tennessee
+  * Duty: development of efficient attention algorithm in MagmaDNN framework
+  * Supervisor: Dr. Wong Kwai Lam
   
 Skills
 ======
