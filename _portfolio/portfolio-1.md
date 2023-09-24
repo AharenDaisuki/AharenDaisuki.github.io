@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Presentation in university of tennessee<br/><img src='/images/work.jpg'>"
+excerpt: "Presentation in UTK<br/><img src='/images/work.JPG'>"
 collection: portfolio
 ---
 
