@@ -40,7 +40,7 @@ Awards
 
 **2022**
 
--[Dean's List in 2022/2023 academic year]()
+-[Dean's List in 2022/2023 academic year](http://AharenDaisuki.github.io/files/deansList_2022.pdf)
 
 **2023**
 
