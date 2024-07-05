@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[download copy](http://AharenDaisuki.github.io/files/CV_homepage.pdf)
+[download copy](http://AharenDaisuki.github.io/files/resume_gs.pdf)
 
 Education
 ======
