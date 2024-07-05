@@ -23,6 +23,9 @@ In 2023 summer, he interned in [RECSEM 2023](https://www.jics.utk.edu/recsem-reu
 attention algorithm in MagmaDNN framework, supervised by [Dr. Wong Kai Lam](https://mabe.utk.edu/people/kwai-l-wong/). 
 He then was selected for the Reaching Out Award 2022/23 by Department of Computer Science, City University of Hong Kong, in the same year. 
 
+In 2024, supervised by professor Rynson LAU, he finished his final year project titled [Deep learning model for camouflaged object detection](https://github.com/AharenDaisuki/Deep-learning-model-for-camouflaged-object-detection) and graduated from city University of Hong Kong. 
+In the same year, he worked for Department of Computer Science, City University of Hong Kong as full-time research assistant, participating in the project titled Integrating Virtual and Real-World Testing Environments for Autonomous Vehicles.
+
 His research interest mainly lies in computer vision, natural language process, algorithm design and analysis, optimization theory.
 
 Inspirations:
@@ -44,7 +47,7 @@ Awards
 
 **2023**
 
--[Reach Out Activity Scholarship]()
+-[Reach Out Activity Scholarship](http://AharenDaisuki.github.io/files/ROA.pdf)
 
 Contact
 ======
